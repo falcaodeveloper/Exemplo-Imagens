@@ -1,2 +1,2 @@
 # Imagens
- Imagens em página HTML
+Exemplo de Imagens em página HTML.
